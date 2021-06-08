@@ -1,3 +1,3 @@
 # portfolio
 
-A portfolio website
+A portfolio website that shows the projects that i have worked on.
