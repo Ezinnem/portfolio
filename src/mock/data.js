@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile_picture.jpeg',
-  paragraphOne: 'I am a softwre Engineer. I have years of experience in bulding responsive web applications.',
-  paragraphTwo: 'I have great knowledge in devloping REST APIs using Node.js.',
-  paragraphThree: '',
+  paragraphOne: 'I am a software Engineer. I have years of experience in bulding responsive web applications.',
+  paragraphTwo: 'I have great knowledge in developing fullstack web applications.',
+  paragraphThree: 'I am a life-long learner; always ready to learn.',
   resume: 'https://drive.google.com/file/d/1gOpjyZDjKIeLrIp6MwVt9RDuXbFAq_5Q/view?usp=sharing', // if no resume, the button will not show up
 };
 
@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'zinny-blog-webpage.png',
     title: 'Blog Webpage',
     info: 'A fully responsive webpage that is fully compatible with any device.',
-    info2: 'It has intrestimg articles that engages the users.',
+    info2: 'It has intresting articles that engages the users.',
     url: 'https://zinny-blog-webpage.netlify.app/',
     repo: 'https://github.com/Ezinnem/Blog_webpage', // if no repo, the button will not show up
   },
