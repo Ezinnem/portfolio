@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'A fully responsive webpage that is fully compatible with any device.',
     info2: 'It has intresting articles that engages the users.',
     url: 'https://zinny-blog-webpage.netlify.app/',
-    repo: 'https://github.com/Ezinnem/Blog_webpage', // if no repo, the button will not show up
+    repo: 'https://github.com/Ezinnem/Blog_webpage', //
   },
   {
     id: nanoid(),
@@ -42,7 +42,16 @@ export const projectsData = [
     info: 'A basic chat application with WebRTC.',
     info2: 'It allows users to chat and hold video calls',
     url: 'https://zinnychat.herokuapp.com/',
-    repo: 'https://github.com/Ezinnem/zeeChat', // if no repo, the button will not show up
+    repo: 'https://github.com/Ezinnem/zeeChat',
+  },
+  {
+    id: nanoid(),
+    img: 'zinnyShop.png',
+    title: 'ZinnyShop',
+    info: 'An e-commerce web application.',
+    info2: 'Fully responsive web application.It allows users to make purchases.',
+    url: 'https://zinnyshop.netlify.app/',
+    repo: 'https://github.com/Ezinnem/zinnyshop',
   },
   {
     id: nanoid(),
@@ -51,7 +60,7 @@ export const projectsData = [
     info: 'A customer webpage',
     info2: 'A fully responsive webapge that fits into all device sizes.',
     url: 'https://gritty-webpage.netlify.app',
-    repo: 'https://github.com/Ezinnem/Gritty-Webpage', // if no repo, the button will not show up
+    repo: 'https://github.com/Ezinnem/Gritty-Webpage',
   },
 ];
 
