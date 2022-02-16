@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile_picture.jpeg',
-  paragraphOne: 'I am a software Engineer. I have years of experience in bulding responsive web applications.',
-  paragraphTwo: 'I have great knowledge in developing fullstack web applications.',
-  paragraphThree: 'I am a life-long learner; always ready to learn.',
-  resume: 'https://drive.google.com/file/d/1gOpjyZDjKIeLrIp6MwVt9RDuXbFAq_5Q/view?usp=sharing', // if no resume, the button will not show up
+  paragraphOne: 'I am a softwre Engineer. I have years of experience in bulding responsive web applications.',
+  paragraphTwo: 'I have great knowledge in devloping REST APIs using Node.js.',
+  paragraphThree: '',
+  resume: 'https://drive.google.com/file/d/1xflllR9UKU2RS9GElV0ODu9Wq06-GaPr/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -31,9 +31,9 @@ export const projectsData = [
     img: 'zinny-blog-webpage.png',
     title: 'Blog Webpage',
     info: 'A fully responsive webpage that is fully compatible with any device.',
-    info2: 'It has intresting articles that engages the users.',
+    info2: 'It has intrestimg articles that engages the users.',
     url: 'https://zinny-blog-webpage.netlify.app/',
-    repo: 'https://github.com/Ezinnem/Blog_webpage', //
+    repo: 'https://github.com/Ezinnem/Blog_webpage', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -42,16 +42,7 @@ export const projectsData = [
     info: 'A basic chat application with WebRTC.',
     info2: 'It allows users to chat and hold video calls',
     url: 'https://zinnychat.herokuapp.com/',
-    repo: 'https://github.com/Ezinnem/zeeChat',
-  },
-  {
-    id: nanoid(),
-    img: 'zinnyShop.png',
-    title: 'ZinnyShop',
-    info: 'An e-commerce web application.',
-    info2: 'Fully responsive web application.It allows users to make purchases.',
-    url: 'https://zinnyshop.netlify.app/',
-    repo: 'https://github.com/Ezinnem/zinnyshop',
+    repo: 'https://github.com/Ezinnem/zeeChat', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -60,7 +51,7 @@ export const projectsData = [
     info: 'A customer webpage',
     info2: 'A fully responsive webapge that fits into all device sizes.',
     url: 'https://gritty-webpage.netlify.app',
-    repo: 'https://github.com/Ezinnem/Gritty-Webpage',
+    repo: 'https://github.com/Ezinnem/Gritty-Webpage', // if no repo, the button will not show up
   },
 ];
 
