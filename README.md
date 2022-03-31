@@ -4,7 +4,7 @@ A portfolio website built using React.
 
 ## Features:
 1. Displays the projects that has been worked on and deployed.
-2. Contains contains contact details.
+2. Contains contact details.
 
 ## See the demo
 
