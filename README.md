@@ -1,6 +1,6 @@
 # Portfolio
 
-A portfolio website built using React. 
+A Portfolio website built using React. 
 
 ## Features:
 1. Displays the projects that has been worked on and deployed.
