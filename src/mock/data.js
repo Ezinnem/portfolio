@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile_picture.jpg',
-  paragraphOne: 'I am a softwre Engineer. I have years of experience in bulding responsive web applications.',
-  paragraphTwo: 'I have great knowledge in devloping REST APIs using Node.js.',
+  paragraphOne: 'I am a software Engineer. I have years of experience in bulding and testing software applications.',
+  paragraphTwo: 'I thrive on building quality systems that surpass end users expectations',
   resume: 'https://drive.google.com/file/d/1xflllR9UKU2RS9GElV0ODu9Wq06-GaPr/view?usp=sharing', // if no resume, the button will not show up
 };
 
