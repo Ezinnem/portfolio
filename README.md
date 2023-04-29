@@ -2,7 +2,7 @@
 
 
 
-A Portfolio website built using React.
+A portfolio website built using React.
 
 ![portfolio-demo-real](https://user-images.githubusercontent.com/54344301/188274579-7020c1b2-ac63-42e9-a46b-709f96332cb7.gif)
 
