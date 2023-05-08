@@ -12,4 +12,3 @@ A portfolio website built using React.
 ## See the demo:
 
 You can view the demo on the browser [Portfolio](https://ezinne-portfolio.netlify.app/).
-
