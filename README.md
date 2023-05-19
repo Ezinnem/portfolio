@@ -1,6 +1,6 @@
 # Portfolio
 
-A portfolio website built using React.
+A portfolio website built using React.js and Material UI.
 
 ![portfolio-demo-real](https://user-images.githubusercontent.com/54344301/188274579-7020c1b2-ac63-42e9-a46b-709f96332cb7.gif)
 
